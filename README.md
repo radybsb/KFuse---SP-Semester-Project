@@ -1,3 +1,8 @@
+# KFuse---SP-Semester-Project
+A semester research project based on the paper "Verified Programs Can Party: Optimizing Kernel Extensions via Post-Verification In-Kernel Merging", repository "eurosys-kfuse-artifact".
+
+# Original Read-me
+
 # eurosys-kfuse-artifact
 
 The repo is the artifact for the paper "Verified Programs Can Party: Optimizing Kernel Extensions via Post-Verification In-Kernel Merging" in EuroSys 2022.
@@ -44,4 +49,3 @@ https://user-images.githubusercontent.com/20109646/150867835-eaa54bc6-4566-47dc-
 
 ### Q7: For E3, I could only execute the experiment for $nfilter's value 0 and 20.
 * Check out our [video](https://illinois.zoom.us/rec/share/7UECx-u-V7VGkEvN3a2jO9gz4G8zgkM3c48u-tiWlopsI5MFdOGxLr6sg12X9Iva.BWm_3yzmZHgbPW58) to perform E3. Make sure to restart your VM when running the next iteration. You can use (Ctrl + A) + X to terminate the VM.
-
